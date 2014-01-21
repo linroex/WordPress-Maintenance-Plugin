@@ -39,7 +39,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 		   		<li><a href="http://ntustsg.com/lost/">失物招領系統</a></li>
 		   		<li><a href="https://stu255.ntust.edu.tw/ntust_stu/stu.aspx">學生資訊系統</a></li>
 		   		<li><a href="http://elearning.ntust.edu.tw/">BlackBoard</a></li>
-		   		<li><a href="http://ntustsg.com/wp-admin">登入後台</a></li>
+		   		<li><a href="http://ntustsg.com/wp-login.php">登入後台</a></li>
 		   	</ul>
 		   	
    		</div>
